@@ -130,7 +130,8 @@ Adjust mutation rate (inside the code) to observe convergence behavior.
 Re-run the simulation with different random seeds for comparison.
 
 👨‍💻 Author
-Nguyễn Hoàng Anh
+Nguyễn Khắc Hoàng Anh
 Project: Applying Genetic Algorithm to the Traveling Salesman Problem (TSP)
 Year: 2025
+
 
